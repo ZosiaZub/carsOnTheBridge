@@ -26,6 +26,8 @@ public class UserPanel extends JFrame{
         setContentPane(panel);
         createComponents();
         setVisible(true);
+
+        comboBox1.toString();
     }
 
     private void createComponents(){

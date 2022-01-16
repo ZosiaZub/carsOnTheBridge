@@ -18,14 +18,17 @@ public class Animation implements Serializable {
     }
 
     public void addBusFigure(BusFigure busFigure) {
+
         busFigureList.add(busFigure);
     }
 
     public void removeBusFigure(BusFigure busFigure) {
+
         busFigureList.remove(busFigure);
+
     }
 
-    public synchronized void moveBusFigure(){
+    public void createBus (BusFigure busFigure){
 
     }
 }
