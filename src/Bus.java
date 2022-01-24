@@ -1,6 +1,7 @@
 /*
  * Program: Symulacja busów przejeżdżających przez most
  *    Plik: Bus.java
+ *          - definicja klasy Bus, zawierająca metody do obsługi kolejnych etapów symulacji
  *
  *   Autor: Zofia Zub
  *  indeks: 259114

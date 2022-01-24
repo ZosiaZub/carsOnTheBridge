@@ -1,6 +1,8 @@
 /*
  * Program: Symulacja busów przejeżdżających przez most
  *    Plik: NarrowBridgeWindow.java
+ *          - odpowiada za wyświetlenie okna głównego, w którym użytkownik wybiera
+ *            parametry symulacji, oraz w którym wyświetlane są logi
  *
  *   Autor: Zofia Zub
  *  indeks: 259114

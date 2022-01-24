@@ -1,6 +1,7 @@
 /*
  * Program: Symulacja busów przejeżdżających przez most
  *    Plik: BusDirection.java
+ *          - enum zawierający dwa kierunki jazdy
  *
  *   Autor: Zofia Zub
  *  indeks: 259114

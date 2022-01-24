@@ -1,6 +1,8 @@
 /*
  * Program: Symulacja busów przejeżdżających przez most
  *    Plik: NarrowBridge.java
+ *          - odpowiada za obsługę zdarzeń na moście, wyświetla informacje
+ *          o busach wchodzących w interakcję z mostem
  *
  *   Autor: Zofia Zub
  *  indeks: 259114
